@@ -1,6 +1,9 @@
 # 3-in-1-Searches
 3 in 1 Searches is a useful Chrome extension that lets you search on Youtube, Google and Reddit without opening a New Tab or changing the current tab.
 
+<img src="3in1ss1.jpg" height='200'>
+<img src="3in1ss1.jpg" height='200'>
+
 ## Install instructions:
   **Manual install:**
   1. Unzip the content folder
