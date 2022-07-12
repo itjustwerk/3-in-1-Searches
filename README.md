@@ -1,4 +1,4 @@
-# 3-in-1-Searches
+# 3-in-1-Searches   [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Useful%20Chrome%20extension%20that%20lets%20you%20search%20Google%2C%20Youtube%20and%20Reddit%20without%20opening%20a%20new%20tab!&url=https%3A%2F%2Fgithub.com%2Fitjustwerk%2F3-in-1-Searches)  ![GitHub last commit](https://img.shields.io/github/last-commit/itjustwerk/3-in-1-Searches?style=plastic)
 3 in 1 Searches is a useful Chrome extension that lets you search on Youtube, Google and Reddit without opening a New Tab or changing the current tab.
 
 <p float="left">
