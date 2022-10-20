@@ -11,5 +11,5 @@
   1. Unzip the content folder
   2. Go to chrome://extensions in your browser.
   3. Enable Developer mode.
-  4. Click Load Unpacked and choose your folder.
+  4. Click Load Unpacked and choose the "3in1 Searches" folder.
 
